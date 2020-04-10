@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tema2(ex15)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tema2(ex15)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tema2(ex15)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="client/client.cpp" />
+		<Unit filename="client/client.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="masa/masa.cpp" />
+		<Unit filename="masa/masa.h" />
+		<Unit filename="meniu/bautura/apa/apa.cpp" />
+		<Unit filename="meniu/bautura/apa/apa.h" />
+		<Unit filename="meniu/bautura/bautura.h" />
+		<Unit filename="meniu/bautura/sticle-bere/sticle-bere.cpp" />
+		<Unit filename="meniu/bautura/sticle-bere/sticle-bere.h" />
+		<Unit filename="meniu/bautura/sticle-vin/sticle-vin.cpp" />
+		<Unit filename="meniu/bautura/sticle-vin/sticle-vin.h" />
+		<Unit filename="meniu/bautura/vin-varsat/vin-varsat.cpp" />
+		<Unit filename="meniu/bautura/vin-varsat/vin-varsat.h" />
+		<Unit filename="meniu/desert/desert.cpp" />
+		<Unit filename="meniu/desert/desert.h" />
+		<Unit filename="meniu/desert/inghetata/inghetata.cpp" />
+		<Unit filename="meniu/desert/inghetata/inghetata.h" />
+		<Unit filename="meniu/desert/tort/tort.cpp" />
+		<Unit filename="meniu/desert/tort/tort.h" />
+		<Unit filename="meniu/mancare/ciorba/ciorba.cpp" />
+		<Unit filename="meniu/mancare/ciorba/ciorba.h" />
+		<Unit filename="meniu/mancare/mancare.cpp" />
+		<Unit filename="meniu/mancare/mancare.h" />
+		<Unit filename="meniu/mancare/pui/pui.cpp" />
+		<Unit filename="meniu/mancare/pui/pui.h" />
+		<Unit filename="meniu/mancare/vita/vita.cpp" />
+		<Unit filename="meniu/mancare/vita/vita.h" />
+		<Unit filename="meniu/meniu.cpp" />
+		<Unit filename="meniu/meniu.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

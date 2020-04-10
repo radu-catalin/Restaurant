@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1586553029 source:d:\var\www\ooplab\workspace\tema2(ex15)\client\client.cpp
+	<iostream>
+	<string>
+	"client.h"
+
+1586552888 d:\var\www\ooplab\workspace\tema2(ex15)\client\client.h
+	<string>
+
+1586542730 source:d:\var\www\ooplab\workspace\tema2(ex15)\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"meniu/mancare/ciorba/ciorba.h"
+	"meniu/mancare/pui/pui.h"
+	"meniu/mancare/vita/vita.h"
+	"meniu/desert/tort/tort.h"
+	"meniu/desert/inghetata/inghetata.h"
+	"meniu/bautura/apa/apa.h"
+	"meniu/bautura/sticle-bere/sticle-bere.h"
+	"meniu/bautura/sticle-vin/sticle-vin.h"
+	"meniu/bautura/vin-varsat/vin-varsat.h"
+	"client/client.h"
+	"masa/masa.h"
+	"restaurant/restaurant.h"
+
+1586104668 d:\var\www\ooplab\workspace\tema2(ex15)\mancare\mancare.h
+	<string>
+
+1586106501 source:d:\var\www\ooplab\workspace\tema2(ex15)\mancare\ciorba\ciorba.cpp
+	<iostream>
+	<string>
+	"ciorba.h"
+
+1586106468 d:\var\www\ooplab\workspace\tema2(ex15)\mancare\ciorba\ciorba.h
+	"../mancare.h"
+
+1586105055 source:d:\var\www\ooplab\workspace\tema2(ex15)\mancare\mancare.cpp
+	<string>
+	"mancare.h"
+
+1586554657 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\ciorba\ciorba.h
+	<string>
+	"../mancare.h"
+
+1586554060 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\mancare.h
+	<string>
+	<iostream>
+
+1586554657 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\ciorba\ciorba.cpp
+	<iostream>
+	<string>
+	"ciorba.h"
+
+1586554090 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\mancare.cpp
+	"mancare.h"
+
+1586554559 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\pui\pui.h
+	<string>
+	"../mancare.h"
+
+1586553962 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\desert\desert.cpp
+	"desert.h"
+
+1586553823 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\desert\inghetata\inghetata.cpp
+	<iostream>
+	"inghetata.h"
+
+1586554694 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\desert\tort\tort.cpp
+	<iostream>
+	"tort.h"
+
+1586554559 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\pui\pui.cpp
+	<iostream>
+	<string>
+	"pui.h"
+
+1586373277 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\vita\vita.cpp
+	<string>
+	"vita.h"
+
+1586554853 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\mancare\vita\vita.h
+	<string>
+	"../mancare.h"
+
+1586553254 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\meniu.cpp
+	<iostream>
+	"meniu.h"
+
+1586553264 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\meniu.h
+	"mancare/ciorba/ciorba.h"
+	"mancare/pui/pui.h"
+	"mancare/vita/vita.h"
+	"desert/tort/tort.h"
+	"desert/inghetata/inghetata.h"
+	"bautura/apa/apa.h"
+	"bautura/sticle-bere/sticle-bere.h"
+	"bautura/sticle-vin/sticle-vin.h"
+	"bautura/vin-varsat/vin-varsat.h"
+
+1586553685 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\desert\desert.h
+	<string>
+
+1586554694 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\desert\tort\tort.h
+	<string>
+	"../desert.h"
+
+1586553727 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\desert\inghetata\inghetata.h
+	<string>
+	"../desert.h"
+
+1586554421 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\apa\apa.cpp
+	<iostream>
+	<string>
+	"apa.h"
+
+1586554423 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\apa\apa.h
+	"../bautura.h"
+
+1586553307 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\bautura.h
+	<string>
+	<iostream>
+
+1586554783 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\sticle-bere\sticle-bere.cpp
+	<iostream>
+	<string>
+	"sticle-bere.h"
+
+1586554785 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\sticle-bere\sticle-bere.h
+	<string>
+	"../bautura.h"
+
+1586554748 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\sticle-vin\sticle-vin.cpp
+	<iostream>
+	<string>
+	"sticle-vin.h"
+
+1586554748 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\sticle-vin\sticle-vin.h
+	<string>
+	"../bautura.h"
+
+1586554713 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\vin-varsat\vin-varsat.cpp
+	<iostream>
+	<string>
+	"vin-varsat.h"
+
+1586554713 d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\vin-varsat\vin-varsat.h
+	<string>
+	"../bautura.h"
+
+1586553358 d:\var\www\ooplab\workspace\tema2(ex15)\masa\masa.h
+	<vector>
+	"../client/client.h"
+
+1586553158 source:d:\var\www\ooplab\workspace\tema2(ex15)\masa\masa.cpp
+	<iostream>
+	<string>
+	"masa.h"
+
+1586552761 source:d:\var\www\ooplab\workspace\tema2(ex15)\restaurant\restaurant.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"restaurant.h"
+
+1586554230 d:\var\www\ooplab\workspace\tema2(ex15)\restaurant\restaurant.h
+	<string>
+	<vector>
+	"../client/client.h"
+	"../masa/masa.h"
+	"../meniu/meniu.h"
+
+1586553333 source:d:\var\www\ooplab\workspace\tema2(ex15)\meniu\bautura\bautura.cpp
+	"bautura.h"
+
