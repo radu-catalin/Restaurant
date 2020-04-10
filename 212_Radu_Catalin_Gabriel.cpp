@@ -22,15 +22,6 @@
 using namespace std;
 
 int main() {
-    // Masa masa(4);
-    // vector<Client*> clienti;
-    // for(int i = 0; i < 5; i++) {
-    //     string id = "masa1_";
-    //     clienti.push_back(new Client(id));
-    // }
-    // cout << masa.potIntraToti(clienti);
-    // masa.adaugaClienti(clienti, 0);
-
     (new Restaurant());
     return 0;
 }
